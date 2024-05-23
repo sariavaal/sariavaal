@@ -2,7 +2,7 @@
                                                                                             
 # Licenciada en Análisis de Sistemas Informáticos | Full-stack Developer
 
-¡Hola! Soy una Licenciada en Análisis de Sistemas Informáticos y Desarrolladora Full Stack con experiencia en tecnologías MERN, incluyendo JavaScript, MongoDB, Express.js, React.js y Node.js. Además, tengo habilidades en PHP (Laravel), MySQL, PostgreSQL, Bootstrap y Tailwind CSS.
+¡Hola! Soy Licenciada en Análisis de Sistemas Informáticos y Full Stack developer con experiencia en tecnologías MERN, incluyendo JavaScript, MongoDB, Express.js, React.js y Node.js. Además, tengo habilidades en PHP (Laravel), MySQL, PostgreSQL, Bootstrap y Tailwind CSS.
 
 Me apasiona resolver problemas y colaborar efectivamente en equipos. Mi enfoque constante en la mejora continua me impulsa a seguir aprendiendo y creciendo profesionalmente. Actualmente, estoy buscando oportunidades para desarrollar mi carrera en el área de tecnología y contribuir al éxito de proyectos innovadores.
 
