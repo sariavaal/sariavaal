@@ -1,12 +1,14 @@
-## ¡Hello! 👋
+## ¡Hola! 👋
                                                                                             
-# BSc in Computer Systems Analysis | Full-stack Developer
+# Analista de Sistemas | Full-stack Developer
 
-I have a Bachelor's degree in Computer Systems Analysis and i'm a Full Stack Developer with experience in MERN technologies, including JavaScript, MongoDB, Express.js, React.js, and Node.js. Additionally, I have skills in PHP (Laravel), MySQL, PostgreSQL, Bootstrap, and Tailwind CSS.
+Licenciada en Análisis de Sistemas Informáticos y Full Stack Developer con experiencia en el
+desarrollo de interfaces modernas y responsivas utilizando React, Next.js y Tailwind CSS. He
+participado en proyectos que incluyen el diseño de sistemas escalables y la creación de APIs,
+cuento con conocimiento en metodologías ágiles como Scrum y Kanban. Apasionada por crear
+soluciones innovadoras y optimizadas, busco seguir creciendo profesionalmente, contribuir al
+éxito de proyectos tecnológicos y la mejora de la experiencia del usuario.
 
-I am passionate about solving problems and effectively collaborating in teams. My constant focus on continuous improvement drives me to keep learning and growing professionally. Currently, I am seeking opportunities to advance my career in the technology field and contribute to the success of innovative projects.
-
-Feel free to contact me if you believe I could be a valuable addition to your team or project!
 _________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Technologies 💻
